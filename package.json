@@ -1,0 +1,24 @@
+{
+  "name": "gulp_test_jimmy",
+  "version": "1.0.0",
+  "description": "build frontend dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chouchua/gulp_task.git"
+  },
+  "keywords": [
+    "gulp",
+    "build",
+    "frontend"
+  ],
+  "author": "Jimmy Chou <chuankengchou@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chouchua/gulp_task/issues"
+  },
+  "homepage": "https://github.com/chouchua/gulp_task#readme"
+}
